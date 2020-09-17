@@ -1,6 +1,6 @@
 ### Hi there 👋
-### ABOUT ME:
-* hey iam a student in gokaraju rangaraju college,iam pursuing mechanical engineering,
-* the thing which i like to do the most is DESIGNING,
-* currently, iam learning about github and app development,
-* apart from this , i'd love to play guitar and iam interested in sketching too.
+### ABOUT HARSHA:
+* Harsha is a student in gokaraju rangaraju college,he is pursuing his mechanical engineering,
+* the thing which he likes to do the most is DESIGNING,
+* currently, he is learning about github and app development,
+* apart from this , he loves to play guitar and he is interested in sketching too.
